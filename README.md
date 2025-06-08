@@ -1,6 +1,6 @@
 # 👋 Hey, I'm MD Aman Ansari
 
-**Full Stack Developer | Failed Founder & CEO **
+**Full Stack Developer | Failed Founder & CEO**
 
 Former founder & CEO of a tech-first product company that shipped 10+ full-stack products. Failed fast, learned faster. Now focused on building scalable systems, clean UIs, and solving real-world problems through code.
 
