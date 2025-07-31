@@ -1,4 +1,4 @@
-# 👋 Hey, I'm MD Aman Ansari
+# 👋 Hey, I'm Amaan Ansari
 
 **Full Stack Developer | Failed Founder & CEO**
 
