@@ -12,4 +12,4 @@ Former founder & CEO of a tech-first product company that shipped 10+ full-stack
 **Backend:** Node.js · TypeScript · Express · RabbitMQ  
 **AI:** LangChain & LangGraph · RAG · Agents  
 **Databases:** PostgreSQL · MongoDB · Redis · Prisma · MikroORM , VectorDb: Pinecone
-**DevOps & Cloud:** Docker · GCP (App Engine, Cloud Run) · AWS EC2 & S3  · GitHub Actions 
+**DevOps & Cloud:** Docker · GCP · AWS  · GitHub Actions 
