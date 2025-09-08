@@ -11,5 +11,5 @@ Former founder & CEO of a tech-first product company that shipped 10+ full-stack
 **Frontend:** React.js · Tailwind CSS · ShadCN · Framer Motion  
 **Backend:** Node.js · TypeScript · Express · RabbitMQ  
 **AI:** LangChain & LangGraph · RAG · Agents  
-**Databases:** PostgreSQL · MongoDB · Redis · Prisma , VectorDb: Pinecone
+**Databases:** PostgreSQL · MongoDB · Redis · Prisma , VectorDb: Pinecone              
 **DevOps & Cloud:** Docker · GCP · AWS  · GitHub Actions 
