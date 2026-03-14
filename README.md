@@ -1,15 +1,45 @@
-# 👋 Hey, I'm Amaan Ansari
+# Hi, I'm Amaan Ansari
 
-**Full Stack AI Developer | Failed Founder & CEO**
+**AI Engineer · Full-Stack Systems Builder · Failed Founder**
 
-Former founder & CEO of a tech-first product company that shipped 10+ full-stack products. Failed fast, learned faster. Now focused on building AI-powered scalable systems, clean UIs, and solving real-world problems through code.
+Built and shipped **10+ production products** as a founder.  
+Now focused on building **AI-powered systems, scalable backends, and clean interfaces.**
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
-**Frontend:** React.js · Tailwind CSS · ShadCN · Framer Motion  
-**Backend:** Node.js · TypeScript · Express · RabbitMQ  
-**AI:** LangChain & LangGraph · RAG · Agents  
-**Databases:** PostgreSQL · MongoDB · Redis · Prisma , VectorDb: Pinecone              
-**DevOps & Cloud:** Docker · GCP · AWS  · GitHub Actions 
+| **AI / LLM Systems** | **Backend** | **Frontend** |
+|---|---|---|
+| LangChain | Node.js | React.js |
+| LangGraph | TypeScript | Tailwind CSS |
+| Deep Agents | Express | ShadCN |
+| RAG Pipelines | RabbitMQ | Framer Motion |
+| Prompt Engineering | REST APIs | Component Systems |
+
+---
+
+| **Data & Vector Systems** | **DevOps / Infra** | **Observability** |
+|---|---|---|
+| PostgreSQL | Docker | Prometheus |
+| MongoDB | GitHub Actions | Grafana |
+| Redis | AWS | Metrics Monitoring |
+| Prisma | GCP | Log Tracking |
+| Pinecone | Linux Servers | Performance |
+
+---
+
+## Interests
+
+- AI Agents & Autonomous Systems  
+- Retrieval Augmented Generation (RAG)  
+- AI-native product architectures  
+- Production infrastructure & observability  
+
+---
+
+## GitHub
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent)
