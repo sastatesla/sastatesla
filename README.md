@@ -1,6 +1,6 @@
 # Hi, I'm Amaan Ansari
 
-**AI Engineer · Full-Stack Systems Builder · Failed Founder**
+**AI Engineer · Failed Founder**
 
 Built and shipped **10+ production products** as a founder.  
 Now focused on building **AI-powered systems, scalable backends, and clean interfaces.**
