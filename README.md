@@ -15,7 +15,7 @@ Now focused on building **AI-powered systems, scalable backends, and clean inter
 | LangGraph | TypeScript | Tailwind CSS |
 | Deep Agents | Express | ShadCN |
 | RAG Pipelines | RabbitMQ | Framer Motion |
-| Prompt Engineering | REST APIs | Component Systems |
+| Context Engineering | REST APIs | Component Systems |
 
 ---
 
