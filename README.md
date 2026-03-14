@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Amaan Ansari
 
-**AI Engineer · Full Stack Developer · Former Founder & CEO**
+**AI Engineer · Full Stack Developer · Failed Founder & CEO**
 
 Former Founder & CEO of a tech-first product company where I built and shipped **10+ full-stack products**. That journey taught me how to **ship fast, fail fast, and learn faster**.
 
